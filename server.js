@@ -31,3 +31,7 @@ res.end(page);
 
 
 console.log('Server has started on 8888.');
+<<<<<<< HEAD
+
+=======
+>>>>>>> cad0d525123f3bf12bc8023ea88958125cbb11e4
